@@ -155,7 +155,6 @@ jupyter notebook car_price_prediction.ipynb
 car-price-prediction/
 │
 ├── car_price_prediction.ipynb    # Main analysis notebook
-├── car_price_prediction.py       # Python script version
 ├── requirements.txt               # Python dependencies
 ├── README.md                      # Project documentation
 ├── data/
