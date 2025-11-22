@@ -158,7 +158,7 @@ car-price-prediction/
 ├── requirements.txt               # Python dependencies
 ├── README.md                      # Project documentation
 ├── data/
-│   └── car_data.csv              # Dataset
+│   └── car_assignment.csv              # Dataset
 ├── screenshots/
 │   ├── model_comparison.png      # Model performance comparison
 │   ├── feature_importance.png    # Feature importance plot
